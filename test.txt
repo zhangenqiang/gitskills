@@ -1,2 +1,2 @@
 this is master branch
-This is dev branch is quick & simple
+This is dev branch is quick and simple
